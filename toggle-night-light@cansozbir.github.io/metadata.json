@@ -1,0 +1,11 @@
+{
+    "description": "This extension lets you toggle night-light from the top-bar by clicking it.",
+    "name": "Toggle Night Light",
+    "shell-version": [
+        "3.36",
+        "3.38"
+    ],
+    "url": "https://github.com/cansozbir/gnome-shell-toggle-night-light-extension",
+    "uuid": "toggle-night-light@cansozbir.github.io",
+    "version": 1
+}
