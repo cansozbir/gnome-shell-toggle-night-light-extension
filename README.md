@@ -19,4 +19,4 @@ Setting the "From" and the "To" as the same value allows you to use night-light 
 
 ```cp -r toggle-night-light@cansozbir.github.io/ ~/.local/share/gnome-shell/extensions/```
 
-Now you can enable the extension from the gnome's extensions app or tweaks.
+After restarting your gnome-shell by pressing Alt+F2 and entering "r" or with login after logout, you can enable the extension from the gnome's extensions app or gnome-tweaks app.
