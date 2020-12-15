@@ -78,7 +78,7 @@ function enable() {
 }
 
 function disable() {
-    ToggleNightLightExtension.restore_aggregate_menu();
+    ToggleNightLightExtension.restoreAggregateMenu();
     ToggleNightLightExtension.destroy();
 
 }
