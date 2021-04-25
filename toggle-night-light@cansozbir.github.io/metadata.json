@@ -3,7 +3,8 @@
     "name": "Toggle Night Light",
     "shell-version": [
         "3.36",
-        "3.38"
+        "3.38",
+        "40"
     ],
     "url": "https://github.com/cansozbir/gnome-shell-toggle-night-light-extension",
     "uuid": "toggle-night-light@cansozbir.github.io",
