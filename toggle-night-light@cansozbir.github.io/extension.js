@@ -52,10 +52,10 @@ const ToggleNightLight = GObject.registerClass(
 
         setIcon() {
             if (this._settings.get_boolean("night-light-enabled")) {
-                this.icon.icon_name = 'night-light-symbolic';
+                this.icon.icon_name = 'weather-clear-night-symbolic';
             }
             else {
-                this.icon.icon_name = 'daytime-sunset-symbolic';
+                this.icon.icon_name = 'night-light-symbolic';
             }
         }
 
